@@ -1,0 +1,78 @@
+[[ADIOS2]]
+arch = "aarch64"
+git-tree-sha1 = "4535183b2293f98bf5f614397c8813832683f73c"
+libc = "glibc"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[ADIOS2.download]]
+    sha256 = "22d19ecdda2e7a7176867724af3aaec8c35d4c61a27ae7f35ab0e4e3b2e21a58"
+    url = "https://github.com/eschnett/ADIOS2_jll.jl/releases/download/ADIOS2-v2.7.1+7/ADIOS2.v2.7.1.aarch64-linux-gnu-libgfortran4.tar.gz"
+[[ADIOS2]]
+arch = "aarch64"
+git-tree-sha1 = "768e8b582c76db76ebcdffba8697a073e2fff0c0"
+libc = "glibc"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[ADIOS2.download]]
+    sha256 = "26817fad72b8a151e66f85c068f4ce552fefc81b591a42fc15f3e054c687992f"
+    url = "https://github.com/eschnett/ADIOS2_jll.jl/releases/download/ADIOS2-v2.7.1+7/ADIOS2.v2.7.1.aarch64-linux-gnu-libgfortran5.tar.gz"
+[[ADIOS2]]
+arch = "powerpc64le"
+git-tree-sha1 = "2d36a0bfd279004b80590a7ad56fb5eab8b7c05c"
+libc = "glibc"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[ADIOS2.download]]
+    sha256 = "4bdf485c5f83bf4d40d153bae32353df8705168375a3b669a79da03357fd6eff"
+    url = "https://github.com/eschnett/ADIOS2_jll.jl/releases/download/ADIOS2-v2.7.1+7/ADIOS2.v2.7.1.powerpc64le-linux-gnu-libgfortran4.tar.gz"
+[[ADIOS2]]
+arch = "powerpc64le"
+git-tree-sha1 = "cc965412c5d57e107ed66239afc7ce40c00b4f88"
+libc = "glibc"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[ADIOS2.download]]
+    sha256 = "40994896b51dc5a3a126371fad083c01885c721a2f4e63b368c61af15152887f"
+    url = "https://github.com/eschnett/ADIOS2_jll.jl/releases/download/ADIOS2-v2.7.1+7/ADIOS2.v2.7.1.powerpc64le-linux-gnu-libgfortran5.tar.gz"
+[[ADIOS2]]
+arch = "x86_64"
+git-tree-sha1 = "6358f5c96da6804d161199c02dfd1a7c37ba942d"
+libgfortran_version = "4.0.0"
+os = "macos"
+
+    [[ADIOS2.download]]
+    sha256 = "c0e90736c821ee5aa1a18e8282a81b8ace22211d19835cbd8bb0b8b510fa7856"
+    url = "https://github.com/eschnett/ADIOS2_jll.jl/releases/download/ADIOS2-v2.7.1+7/ADIOS2.v2.7.1.x86_64-apple-darwin-libgfortran4.tar.gz"
+[[ADIOS2]]
+arch = "x86_64"
+git-tree-sha1 = "9e0ebda0d48bacd1bf43e82aaa2de4b090f9c993"
+libgfortran_version = "5.0.0"
+os = "macos"
+
+    [[ADIOS2.download]]
+    sha256 = "ced70b680c630c22e0d56e8b0001d28f7f59b3c2302f6d813a1b3bcbd215552c"
+    url = "https://github.com/eschnett/ADIOS2_jll.jl/releases/download/ADIOS2-v2.7.1+7/ADIOS2.v2.7.1.x86_64-apple-darwin-libgfortran5.tar.gz"
+[[ADIOS2]]
+arch = "x86_64"
+git-tree-sha1 = "b5a56b5bde7704525f359c5fba690cb836f09cf3"
+libc = "glibc"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[ADIOS2.download]]
+    sha256 = "151b78246aa449702487db9277eeff1174d9d20c18e625bea66e800c20f84385"
+    url = "https://github.com/eschnett/ADIOS2_jll.jl/releases/download/ADIOS2-v2.7.1+7/ADIOS2.v2.7.1.x86_64-linux-gnu-libgfortran4.tar.gz"
+[[ADIOS2]]
+arch = "x86_64"
+git-tree-sha1 = "c43f365e2f3ca6d6a2cdd6dd55d14be30981fe8f"
+libc = "glibc"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[ADIOS2.download]]
+    sha256 = "4ac0302867a089f18796992ea088ccfa930ea2d1fec328d2696b1fb04b9e81a4"
+    url = "https://github.com/eschnett/ADIOS2_jll.jl/releases/download/ADIOS2-v2.7.1+7/ADIOS2.v2.7.1.x86_64-linux-gnu-libgfortran5.tar.gz"
