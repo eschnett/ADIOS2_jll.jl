@@ -1,0 +1,24 @@
+[[ADIOS2]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "702926e83b08190139304cdea2b65988d1c32781"
+lazy = true
+libgfortran_version = "5.0.0"
+mpi = "microsoftmpi"
+os = "windows"
+
+    [[ADIOS2.download]]
+    sha256 = "d6907b9069f8d36a01b1cc58669e77d2fb98883d326ebd49c10c2e27728f0086"
+    url = "https://github.com/eschnett/ADIOS2_jll.jl/releases/download/ADIOS2-v2.9.0+1/ADIOS2.v2.9.0.x86_64-w64-mingw32-libgfortran5-cxx03-mpi+microsoftmpi.tar.gz"
+[[ADIOS2]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "6f7ed1e77d807d18ff037261f668f17a4f16119b"
+lazy = true
+libgfortran_version = "5.0.0"
+mpi = "microsoftmpi"
+os = "windows"
+
+    [[ADIOS2.download]]
+    sha256 = "f09a12bc4b28e0b9d1e3cd364715c869cd178f708fe9343591a24c07bd71516b"
+    url = "https://github.com/eschnett/ADIOS2_jll.jl/releases/download/ADIOS2-v2.9.0+1/ADIOS2.v2.9.0.x86_64-w64-mingw32-libgfortran5-cxx11-mpi+microsoftmpi.tar.gz"
